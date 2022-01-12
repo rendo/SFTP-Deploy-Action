@@ -1,6 +1,7 @@
 # SFTP Deploy action
 
-> Use this action to deploy your files to server using `SSH Private Key` forked from wlixcc/SFTP-Deploy-Action
+> Use this action to deploy your files to server using `SSH Private Key`.
+> This project is forked from wlixcc/SFTP-Deploy-Action
 
 ## Inputs
 
